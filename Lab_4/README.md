@@ -12,8 +12,8 @@ This project implements a Reaction Time Tester using Python and Pygame.
 ## AI Assistance
 
 ChatGPT conversation and development assistance:
-(https://chatgpt.com/share/6acb2273-cd20-83ec-b827-cd9c1cc2c95a)
 
+https://chatgpt.com/share/6acb2411-f374-83ee-abe5-dcd3eb31e509
 ## Demo Videos
 
 - Before: before.mp4
